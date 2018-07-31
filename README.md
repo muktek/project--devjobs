@@ -4,7 +4,7 @@
 
 ## Description
 
-Devjobs LLC is looking for a full-stack developer to build a prototype application for a job board for posting job ads for  top notch local developers. They want to build the application in Node.js, and use a Postgres database as a persistence layer. They want their application to expose the company and jobs database data through an API, they wanat to implement user authentication and permissions for posting data, and they want a React front-end for uploading form data.
+Devjobs LLC is looking for a full-stack developer to build a prototype application for a job board for posting job ads  looking top notch local developers. They want to build the application in Node.js, and use a Postgres database as a persistence layer. They also want their application to expose the company and jobs database data through an API, they want to implement user authentication and permissions for posting data, and they want a React front-end for uploading form data.
 
 
 ## Objectives
