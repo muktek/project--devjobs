@@ -80,7 +80,7 @@ Devjobs LLC is looking for a full-stack developer to build a prototype applicati
 
 ## Assignment Structure
 
-The assignment is separated into a series of assignments. **You will have only one repository and you will need to create a github branch for each assignment**.
+The assignment is separated into a series of assignments. **You will have only one repository and you will need to create a github branch for each assignment**. The assignments are cumulative and when you reach the end you will have completed the engineering of the devjobs web application.
 
 1. [Node Express Server](https://github.com/muktek/assignment--fullstack-js-01-node-express-server)
 2. [Server Routers](https://github.com/muktek/assignment--fullstack-js-02-server-router)
