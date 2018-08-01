@@ -6,43 +6,6 @@
 
 Devjobs LLC is looking for a full-stack developer to build a prototype application for a job board for posting job ads  looking top notch local developers. They want to build the application in Node.js, and use a Postgres database as a persistence layer. They also want their application to expose the company and jobs database data through an API, they want to implement user authentication and permissions for posting data, and they want a React front-end for uploading form data.
 
-
-## Objectives
-
-
-#### Node Web Server Basics
-
-- Use npm as a package manager to download and import packages
-- Set up a web server in node
-- Set up routers + routes in node.
-- Use a view engine to serve `.ejs` views to users.
-
-#### Node Data Access + APIs
-
-- Implement the model-view-controller pattern in a node web application.
-- Configure access to a postgres database (using [knex.js](https://knexjs.org/))
-- Configure models for querying the database tables (using [objection.js](https://vincit.github.io/objection.js/))
-- Create seed data to populate a database.
-- Utilize a request client (like Postman) to configure that routes + api is working as expected
-
-##### Node Authentication
-
-- Utilize an authentication module in node.js
-- Create a table for users in your database
-- Utilize authentication methods:
-
-  - registering users
-  - logging in users
-  - logging out users
-  - checking for user sessions
-
-##### React Integration
-
-- Integrate React components into your fullstack application.
-- Create components that allow a user to fetch, render, and post data through your back-end api
-
-
-
 ## Objectives
 
 
